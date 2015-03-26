@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WebsiteX5LanguagesLibrary xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <Languages>
+		<Language>
+		<Code><![CDATA[EN]]></Code>
+		<Name><![CDATA[English]]></Name>
+		<WritingDirections><![CDATA[LeftToRight]]></WrintingDirections>
+		<Localizations>
+		<Localization>
+		<Key>L10n Key</Key>
+		<Value>Localization value</Value>
+		</Localization>
+		</Localizations>
+		</Language>
+</Languages>
+</WebsiteX5LanguagesLibrary>
